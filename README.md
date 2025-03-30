@@ -101,6 +101,8 @@ flutter build linux --release
 5. 如果没有证书:
 安卓无影响。
 IOS、Mac可以按照无签名的方法打包，使用第三方工具侧载。
+👉APK签名 [获取证书](https://www.yunedit.com/xueyuan/jx/createcert)
+👉IPA签名 [获取证书](https://www.yunedit.com/xueyuan/jx/ioscert004) 或者 [爱思助手](https://www.i4.cn/news_detail_38195.html)
 
 ## 配置说明
 
